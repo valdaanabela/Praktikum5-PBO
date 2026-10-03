@@ -1,0 +1,4 @@
+[12-09-2026] - Hari ini belajar I/O Stream dan persistensi data Java.
+[13-09-2026] - Selesai mengerjakan tugas praktikum Modul 5.
+[14-09-2026] - Belajar UTS PBO.
+[15-09-2026] - Mengerjakan project PBO.
